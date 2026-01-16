@@ -1,6 +1,8 @@
-# Pokédex JS (Kanto)
+# Pokédex JS (Live Demo)
 
-A simple Kanto Pokédex built with vanilla **HTML / CSS / JavaScript**.
+A simple Pokédex web app built with **HTML, CSS, and JavaScript** — viewable live on GitHub Pages!
+
+🔗 Live site: https://creativeisaiah.github.io/pokedex-js/
 
 ## What it does
 - Displays Pokémon info in a clean UI
@@ -11,9 +13,6 @@ A simple Kanto Pokédex built with vanilla **HTML / CSS / JavaScript**.
 - HTML
 - CSS
 - JavaScript (vanilla)
-
-## Check it out here
-https://creativeisaiah.github.io/pokedex-js/
 
 ## Getting started
 
