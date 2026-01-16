@@ -12,6 +12,9 @@ A simple Kanto Pokédex built with vanilla **HTML / CSS / JavaScript**.
 - CSS
 - JavaScript (vanilla)
 
+## Check it out here
+https://creativeisaiah.github.io/pokedex-js/
+
 ## Getting started
 
 ### Option 1: Download ZIP
